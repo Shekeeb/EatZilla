@@ -49,6 +49,7 @@ import linkedin_icon from './linkedin_icon.png'
 import facebook_icon from './facebook_icon.png'
 import twitter_icon from './twitter_icon.png'
 import selector_icon from './selector_icon.png'
+import header_img from './header_img.png'
 
 export const assets = {
     add_icon_green,
@@ -60,6 +61,7 @@ export const assets = {
     facebook_icon,
     twitter_icon,
     selector_icon
+    header_img
 }
 
 export const menu_list = [
